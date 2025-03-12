@@ -5,6 +5,14 @@ GameVision is a deep learning-powered image classification model designed to ide
 ## Objective
 The goal is to create or fine-tune a computer vision model that can accurately predict the sport category of each image in the test set. The final model will be evaluated based on its classification accuracy.
 
+## Team Members
+
+- Jorge Mejia
+
+- Brain Phan
+
+- Andrew Molina
+
 ## Features
 
 - Deep Learning with ResNet101V2: Uses a pre-trained ResNet model with transfer learning.
